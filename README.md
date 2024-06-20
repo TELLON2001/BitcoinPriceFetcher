@@ -73,12 +73,6 @@ To run the project locally and interact with it using Postman, follow these step
    - Use the collection to send requests to the API endpoints (`GET /api/bitcoinprice/sources`, `GET /api/bitcoinprice/{source}`, `GET /api/bitcoinprice/history/{source}`).
    - Replace `{source}` with actual source names from the response of `GET /api/bitcoinprice/sources`.
 
-## Future Improvements
-
-- **Add More Price Sources**: Expand the application to fetch Bitcoin prices from additional sources.
-- **Implement Persistent Storage**: Replace the in-memory database with a persistent storage solution like PostgreSQL or MySQL.
-- **Enhance Error Handling**: Improve error handling and resilience against network failures or data retrieval issues.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
