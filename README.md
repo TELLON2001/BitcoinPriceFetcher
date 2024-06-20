@@ -50,7 +50,7 @@ To run the project locally and interact with it using Postman, follow these step
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/TELLON2001/BitcoinPriceFetcher.git
    cd BitcoinPriceFetcher
    ```
 
@@ -86,7 +86,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-Adjust the placeholders (`{source}`, repository URL, etc.) with actual project details and specifics. This README now focuses on using Postman to interact with the API, providing users with clear instructions on how to set up and test the Bitcoin price fetching functionalities.
