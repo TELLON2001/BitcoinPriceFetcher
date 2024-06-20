@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitcoinPriceFetcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a167ebb405545b87587b434d3b644888f9940e29")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitcoinPriceFetcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitcoinPriceFetcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
